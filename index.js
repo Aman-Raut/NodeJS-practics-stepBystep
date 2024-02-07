@@ -13,4 +13,4 @@ let result = arr.filter((item)=>{
 })
 console.log(result);
 const fs = require('fs')
-fs.writeFileSync("hello.txt","this is the 6th teturoial of node js step by step code") 
+fs.writeFileSync("hello.txt","this is the 6th teturoial of node js step by step code")
