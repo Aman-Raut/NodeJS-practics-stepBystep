@@ -1,0 +1,30 @@
+{
+  "name": "node-practics",
+  "version": "1.0.0",
+  "description": "noje js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman-Raut/NodeJS-practics-stepBystep.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Aman Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman-Raut/NodeJS-practics-stepBystep/issues"
+  },
+  "homepage": "https://github.com/Aman-Raut/NodeJS-practics-stepBystep#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}

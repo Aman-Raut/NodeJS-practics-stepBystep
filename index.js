@@ -14,3 +14,10 @@ let result = arr.filter((item)=>{
 console.log(result);
 const fs = require('fs')
 fs.writeFileSync("hello.txt","this is the 6th teturoial of node js step by step code")
+
+
+const colors= require("colors");
+console.log('hello'.red);
+console.log('duniya'.green);
+console.log('Sillu'.black);
+console.log('hello'.bgBlue);
