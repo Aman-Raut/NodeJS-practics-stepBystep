@@ -21,3 +21,5 @@ console.log('hello'.red);
 console.log('duniya'.green);
 console.log('Sillu'.black);
 console.log('hello'.bgBlue);
+
+console.warn(100+20);
